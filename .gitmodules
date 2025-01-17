@@ -1,0 +1,3 @@
+[submodule "modules/weather-portlet"]
+	path = modules/weather-portlet
+	url = https://github.com/uPortal-Attic/WeatherPortlet.git
